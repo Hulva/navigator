@@ -1,0 +1,3 @@
+[submodule "navigator-admin"]
+	path = navigator-admin
+	url = https://github.com/Hulva/navigator-admin.git
